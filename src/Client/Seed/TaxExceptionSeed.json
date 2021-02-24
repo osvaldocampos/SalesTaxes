@@ -1,0 +1,11 @@
+[
+  {
+    "productType": "Book"
+  },
+  {
+    "productType": "Food"
+  },
+  {
+    "productType": "Medical"
+  }
+]

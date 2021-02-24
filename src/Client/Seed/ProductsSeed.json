@@ -1,0 +1,37 @@
+[
+  {
+    "description": "Book",
+    "productType": "Book",
+    "isImported": false
+  },
+  {
+    "description": "Music CD",
+    "productType": "Other",
+    "isImported": false
+  },
+  {
+    "description": "Chocolate bar",
+    "productType": "Food",
+    "isImported": false
+  },
+  {
+    "description": "Imported box of chocolates",
+    "productType": "Food",
+    "isImported": true
+  },
+  {
+    "description": "Imported bottle of perfume",
+    "productType": "Other",
+    "isImported": true
+  },
+  {
+    "description": "Bottle of perfume",
+    "productType": "Other",
+    "isImported": false
+  },
+  {
+    "description": "Packet of headache pills",
+    "productType": "Medical",
+    "isImported": false
+  }
+]
